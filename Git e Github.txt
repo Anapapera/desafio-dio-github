@@ -1,0 +1,35 @@
+                                                                       Git e GitHub
+	O Git foiu criado em 2005, é um sistema de versionamento de código distribuído, criado pelo Linus Torvalds. Criador por trás do Linux, e o Linus estava enfrentando um problema complicado. Software não é feito sozinho.
+Não é um trabalho de um homem só. É feito de forma colaborativa, e com o Linux não foi diferente. O Linus escreveu o Linux da maneira colaborativa, às vezes no mesmo arquivo, às vezes alterando a mesma linha complexo suficiente para que suportasse pessoas do mundo inteirotrabalhando,
+trabalho que ele estava executando ali e que fosse, então, ele precisava ter um sistema que "versionasse", criasse versões, ele tinha uma equipe, e essa equipe estava executando distribuída no mundo inteiro.
+Software não é feito, se não for colaborativo. E ele é feito de forma colaborativa.
+	Então, é isso que o Git soluciona, eçe é um sodtware de versionamento de código.
+	Hoje em dia nós temos o GitHub, uma empresa da Microsoft, muito bem estabelecida no mercado, o Git e o GitHub são muito forte no mercado hoje em dia, eles aparecem geralmente juntos. São duas tecnologias totalmente diferebtes e complementares.
+	
+	-Controle de versões
+	-Armazenamento em nuvens
+	-Trabalho em equipe
+	-Melhorar seu código
+	-Reconhecimento
+
+							Navegação básica no terminal e instalação
+
+	A maioria dos sistemas operacionais possuem programas que tem interface gráfica, ou seja, a forma que o usuário interage com o programa é de forma gráfica, onde ele pode clicar, arrastar... Tudo é responsivo aos comandos do usuário, sejam eles: clicar e arrastar algo, selecionar caixas e usar atalhos do teclado.
+	Então tudo é responsivo, e aforma que a gente vai interagir que é o Git, ele é um software que o desing dele é voltado´para um outro tipo de programa. É um CLI (Command Line Interface) que é diferente de Graphival User Interface, ele então não tem uma interface gráfica, a forma de interarfir com o git, que é a forma onde a tecnologia foi concebida por linha de comando.
+	hOJE EM DIA TEMOS PROGRAMAS QUE AUROMATIZAM ISSO, QUE PEGA O Git e acrescenta um Graphical User Interface acrescentam uma interface g´rafica ao Git tornando0 tudo muito mais simples.
+        
+
+                                                               O que iremos aprender?
+	
+	-Mudar de pastas
+	-Listar as Pastas
+	-Criar pastas/arquivos
+	-Deletar pastas/arquivos
+
+
+Windows              Unix
+ 
+-cd                   -cd
+-dir                  -is
+-mkdir                -mkdir
+-del/rmdir            -rm-rf
